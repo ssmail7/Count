@@ -1,2 +1,3 @@
 # Count
-Project 7 from my Programming Concepts class during the Spring 2016 semester.
+
+This program reads a string (phrase) and counts the number of space characters and certain other letters in the phrase.
